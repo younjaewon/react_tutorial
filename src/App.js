@@ -1,12 +1,11 @@
-import { useState } from 'react';
 import './App.css';
-import Average from './reactHook/Average';
+import SassComponent from './component-styling/SassComponent';
 
 const App = () => {
   
     return (
       <div>
-        <Average />
+        <SassComponent/>
       </div>
     );
   
